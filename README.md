@@ -1,2 +1,1 @@
-# s
-s
+musisz ten folder na pulpit dac
